@@ -18,5 +18,6 @@ Creamos posteriormente un nuevo repositorio con el nombre que se nos ha indicado
 Y posteriormente procederemos a clonar el repositorio a nuestro ordenador.
 con el comando `git clone`pegando directamente la dirección del repositorio desde el botón de la aplicación denominado "SSH". 
 ![](imagenes/Pasted%20image%2020241025135206.png)
-Una vez clonado el repositorio podremos comenzar a trabajar localmente en el. Posteriormente, todos los cambios que vayamos haciendo se reflejaran en el repositorio remoto tras ejecutar un commit y un push.
+Una vez clonado el repositorio podremos comenzar a trabajar localmente en el. Posteriormente, todos los cambios que vayamos haciendo se reflejaran en el repositorio remoto tras ejecutar commit.
+Pero antes tenemos que actualizar nuestra configuración local de git para configurar el nombre y el email de nuestra cuenta de github, porque, de lo contrario,  cuando ejecutasemos commit no se identificarían correctamente.
 

@@ -21,3 +21,7 @@ con el comando `git clone`pegando directamente la dirección del repositorio des
 Una vez clonado el repositorio podremos comenzar a trabajar localmente en el. Posteriormente, todos los cambios que vayamos haciendo se reflejaran en el repositorio remoto tras ejecutar commit.
 Pero antes tenemos que actualizar nuestra configuración local de git para configurar el nombre y el email de nuestra cuenta de github, porque, de lo contrario,  cuando ejecutasemos commit no se identificarían correctamente.
 
+`git config --global user.email "nuestroemail@dominio.com"
+`git config --global user.name "usuario"
+
+

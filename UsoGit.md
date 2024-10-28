@@ -4,10 +4,15 @@
 
 **`git add`** Con git add añadimos un archivo para ser candidato en el próximo commit.
 
-**Ejemplo de uso:** `git add nombre_archivo.md imagene/imagen.png` Este comando prepara un archivo y una imagen para la subida.
+**Ejemplo de uso:**
+
+`git add nombre_archivo.md imagene/imagen.png` Este comando prepara un archivo y una imagen para la subida.
 
 **`git commit -m "mensaje commit"`** Con git commit añadimos un mensaje a los cambios realizados.
-**Ejemplo de uso:** `git commit -m "comentario de la acción"` (-m) significa el mensaje del commit.
+
+**Ejemplo de uso:**
+
+`git commit -m "comentario de la acción"` (-m) significa el mensaje del commit.
 
 **`git push origin main`** Utiliza git push para subir tus archivos locales al repositorio remoto.
 

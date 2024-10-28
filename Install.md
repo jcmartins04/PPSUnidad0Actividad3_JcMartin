@@ -22,6 +22,7 @@ cambiar usurio y dominio por el que corresponda en cada caso.
 ![](imagenes/Pasted%20image%2020241025133400.png)
 
 Tras la generación de claves ha de configurarse el archivo "config" de ssh en git para poder conectar los archivos locales con nuestra cuenta a github.
+
 ![](imagenes/Pasted%20image%2020241025134404.png)
 
 En identityFile especificaremos la ruta al archivo de claves que hemos creado anteriormente.

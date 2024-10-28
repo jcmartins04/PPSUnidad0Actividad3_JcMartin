@@ -2,6 +2,7 @@
 Lo primero que vamos a comprobar es si tenemos instalado php y qué versión se encuentra instalada en nuestro equipo. Para ello ejecutamos por consola el siguiente comando: `php --version` obtendremos una salida como esta:
 
 ![](imagenes/PPS_Inst_PHP.png) 
+
 Como se puede comprobar php se encuentra en su versión más reciente.
 Si por cualquier circunstancia hubiera que actualizar o instalar una nueva versión, ejecutaríamos el siguiente comando por consola:
 

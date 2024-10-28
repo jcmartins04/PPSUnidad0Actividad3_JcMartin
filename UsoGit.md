@@ -1,4 +1,4 @@
-#Comandos más comunes en git
+# Comandos más comunes en git
 
 **`git status`** Utilizamos git status para saber en que situación se encuentra el repositorio local.
 

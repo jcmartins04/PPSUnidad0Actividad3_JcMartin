@@ -19,9 +19,14 @@
 **`git diff`** Usa git diff para revisar los cambios realizados desde la consola en el repositorio local.
 
 
+![[Pasted image 20241028140623.png]]
 
 
 **`git pull`** Imagina que has realizado cambios en Github y tienes que reflejarlos en la carpeta local, pues para eso está git pull para realizar la descarga y sincronización del repositorio con la carpeta local.
 
 **`git log`** Si no te quedan claras las acciones realizadas, puedes usar git log para revisar los cambios. Conbinalo con diff.
+
+
+![[Pasted image 20241028140756.png]]
+
 
